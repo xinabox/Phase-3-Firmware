@@ -20,4 +20,5 @@ In order to get the firmware on to the CC03, follow these instructions:
 - [SL01](https://wiki.xinabox.cc/SL01), UVA, UVB, Light Sensor: Advanced Light Sensor
 - [SW10](https://wiki.xinabox.cc/SW10), Temperature Sensor
 - [SI01](https://wiki.xinabox.cc/SI01), IMU 9DoF w/Temperature sensor
+- [MN01](https://wiki.xinabox.cc/MN01), ThinSat™ Payload Interface
 - MN02 ThinSat™ Payload Interface w/Temperature sensors
