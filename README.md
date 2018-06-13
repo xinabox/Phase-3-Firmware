@@ -1,5 +1,5 @@
 # Phase-3-Firmware
-<img src="extras/EM_MN02.PNG" width="35%" height="auto" align="right">
+<img src="extras/EM_MN02.png" width="35%" height="auto" align="right">
 
 This firmware only supports the [CC03](https://wiki.xinabox.cc/CC03) used in the [ThinSat Program](http://www.vaspace.org/index.php/thinsat-program).
 
